@@ -1,0 +1,76 @@
+
+header {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+}
+header img {
+  width: 500px;
+  border-radius: 10px;
+}
+header h1 {
+  color: #831515;
+  padding-top: 100px;
+}
+nav {
+  background-color: #c01b1b;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+nav ul {
+  list-style-type: none;
+  padding-bottom: 22px;
+  padding-top: 7px;
+}
+nav ul li {
+  display: inline;
+  margin: 5%;
+}
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+nav img {
+  display: inline;
+  height: 35px;
+  margin-bottom: -10px;
+  margin-right: 6%px;
+  margin-left: 1%px;
+}
+div p {
+  background-color: #831515;
+  color: #831515;
+}
+article {
+  padding: 20px;
+}
+footer {
+  background-color: #c01b1b;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: justify;
+  font-family: sans-serif;
+}
+.pencipta {
+  text-align: center;
+}
+h2 {
+  margin-left: 22%;
+}
+h3 {
+  margin-left: 24%;
+  margin-right: 24%;
+}
+.mapel {
+  margin-left: 20%;
+}
